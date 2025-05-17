@@ -16,6 +16,7 @@ After selecting the time format, the game will begin and the clock will start ti
 ![Screenshot 2025-05-17 205859](https://github.com/user-attachments/assets/ec727ac6-f677-4a9e-b493-9419c1a652ec)
 
 When selecting a piece to move the tile, on which the piece is standing, will change its color.
+
 ![Screenshot 2025-05-17 205916](https://github.com/user-attachments/assets/b1d0c6c5-de7d-4e24-8ad2-32d1c4251939)
 
 Also when a move has been made the tiles will change its color accordingly.
